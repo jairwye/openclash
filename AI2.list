@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,notebooklm.com
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,docker.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,developerprofiles
