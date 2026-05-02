@@ -22,3 +22,9 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org
